@@ -31,4 +31,3 @@ int main() {
     print_addresses();
     return 0;
 }
-
